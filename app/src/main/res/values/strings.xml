@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT Descargador</string>
+    <string name="hint_link">Pega aquí el link del video</string>
+    <string name="btn_paste">Pegar</string>
+    <string name="btn_download">Descargar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="label_quality">Calidad</string>
+    <string name="status_preparing">Preparando la app (solo la primera vez tarda un poco)…</string>
+    <string name="status_ready">Listo. Pega un link y presiona Descargar.</string>
+    <string name="note_personal">Úsala solo para contenido propio o que tengas permiso de descargar, y para uso personal.</string>
+</resources>
